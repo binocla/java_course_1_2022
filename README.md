@@ -23,3 +23,7 @@
 https://discord.gg/UV4BDW33UX
 
 Там можно найти ссылки на все мои гайды или доки!
+
+### Полезные материалы:
+- (http://acm.sgu.ru/lang/problemset.php)[http://acm.sgu.ru/lang/problemset.php]
+- (https://acmp.ru/)[https://acmp.ru/]
