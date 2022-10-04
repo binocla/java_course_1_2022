@@ -20,8 +20,7 @@ public class Person {
         System.out.println(text);
     }
 
-    public Person() {
-    }
+    public Person() {}
 
     public void sayWhoYouAre() {
         System.out.println("Меня зовут: " + firstName);
